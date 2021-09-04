@@ -28,13 +28,9 @@ ModLanguage('JA','EN',{
 		"Confirm":"결정",
 		"Random":"무작위",
 		"Cancel":"취소",
-//		"per second":"초당",
-//		"Buy":"구매",
-//		"SELL":"판매",
 		"owned":"보유량",
 		"Stats (short)":"상태",
 		"each":"",
-//		"produces":"는(은) 생산합니다.",
 		"UpGrade":"업그레이드",
 	},
 	//we're already changing "cookie" and "grandma" in the REPLACE ALL so some of the following is redundant and mostly just for the sake of example
@@ -65,11 +61,11 @@ ModLanguage('JA','EN',{
 	],
 	"%1 building": [
 		"%1 건물",
-		"%1 건물" // 건물들
+		"%1 건물"
 	],
 	"%1 upgrade": [
 		"%1 업그레이드",
-		"%1 업그레이드" // 업그레이드들
+		"%1 업그레이드"
 	],
 	"Yes": "예",
 	"No": "아니오",
@@ -196,7 +192,7 @@ ModLanguage('JA','EN',{
 	"Cookies per second:": "초당 쿠키",
 	"Raw cookies per second:": "초당 쿠키 최저 생산량",
 	"highest this ascension:": "해당 전생의 최대 생산량",
-	"multiplier:": "승수", // 곱연산
+	"multiplier:": "승수", 
 	"withered:": "withered:",
 	"Cookies per click:": "클릭당 쿠키 생산량:",
 	"Cookie clicks:": "쿠키 클릭 횟수:",
@@ -953,12 +949,12 @@ ModLanguage('JA','EN',{
 	"Buy all upgrades": "모든 업그레이드 구매",
 	"Will <b>instantly purchase</b> every upgrade you can afford, starting from the cheapest one.<br>Upgrades in the <b>vault</b> will not be auto-purchased.<br>You may place an upgrade into the vault by <b>Shift-clicking</b> on it.": "Will <b>instantly purchase</b> every upgrade you can afford, starting from the cheapest one.<br>Upgrades in the <b>vault</b> will not be auto-purchased.<br>You may place an upgrade into the vault by <b>Shift-clicking</b> on it.",
 	"each %1 produces <b>%2</b> per second": "각 %1는(은) <b>%2</b>를 초당 생산합니다.",
-	"%1 producing <b>%2</b> per second": "%1은 <b>%2</b>를 초당 생산합니다.", //
+	"%1 producing <b>%2</b> per second": "%1은 <b>%2</b>를 초당 생산합니다.", 
 	"<b>%1%</b> of total CpS": "<b>%1%</b> CpS를 차지",
 	"<b>%1</b> produced so far": "<b>%1</b>가 지금까지 생산됐습니다.",
 	"...also boosting some other buildings:": "...또한 일부 다른 건물들에 부스터 효과를 부여합니다:",
 	"all combined, these boosts account for <b>%1</b> per second (<b>%2%</b> of total CpS)": "이 모든 것이 합쳐져 <b>%1</b>를 초당 (<b>%2%</b> of total CpS)을 만듭니다.",
-	"owned: %1": "보유량: %1", // 설명문
+	"owned: %1": "보유량: %1", 
 	"free: %1!": "free: %1!",
 	"Level %1 %2": "Level %1 %2",
 	"Granting <b>+%1% %2 CpS</b>.": "Granting <b>+%1% %2 CpS</b>.",
@@ -975,7 +971,6 @@ ModLanguage('JA','EN',{
 	"You can also press %1 to bulk-buy or sell %2 of a building at a time, or %3 for %4.": "%1키를 누르고있으면 %2개가 구매, %3키를 누르고 있으면 %4개를 구매합니다.",
 	"Investment": "Investment",
 	"You're not sure what this does, you just know it means profit.": "이게 뭘 하는 건지는 정확히 모르지만, 어쨌든 수익으로 연결된다는 것은 알고 있습니다.",
-// 우측의 메뉴들	
 	"Cursor": "커서",
 	"cursor": "커서",
 	"Cursor (short)": "커서",
@@ -1973,7 +1968,7 @@ ModLanguage('JA','EN',{
 	"[Upgrade name 70]Exotic nuts": "외계의 견과류",
 	"[Upgrade name 71]Communal brainsweep": "집단 세뇌",
 	"[Upgrade name 72]Arcane sugar": "신비로운 설탕",
-	"[Upgrade name 73]Elder Pact": "고대의 계약", // 노인의 단결
+	"[Upgrade name 73]Elder Pact": "고대의 계약", 
 	"[Upgrade name 74]Elder Pledge": "고대의 서약",
 	"[Upgrade name 75]Plastic mouse": "플라스틱 마우스",
 	"[Upgrade name 76]Iron mouse": "철 마우스",
@@ -1986,7 +1981,7 @@ ModLanguage('JA','EN',{
 	"[Upgrade name 83]Gold hoard": "황금 비축분",
 	"[Upgrade name 84]Elder Covenant": "고대의 계약",
 	"[Upgrade name 85]Revoke Elder Covenant": "고대의 계약 파기",
-	"[Upgrade name 86]Get lucky": "Get lucky", // 원문
+	"[Upgrade name 86]Get lucky": "Get lucky", 
 	"[Upgrade name 87]Sacrificial rolling pins": "제물 밀대",
 	"[Upgrade name 88]Snickerdoodles": "스니커두들",
 	"[Upgrade name 89]Stroopwafels": "스트룹와플",
