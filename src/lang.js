@@ -8,7 +8,7 @@
 	The special "REPLACE ALL" key is provided as a utility for replacing every single instance of a string in the game's language files with another. At the moment this does not apply to default english flavor text.
 	Please refer to the /loc directory for the default localization files, which you may use for reference.
 */
-ModLanguage('JA','EN',{
+ModLanguage('JA',{
 	
 "REPLACE ALL": {
 		"grandmapocalypse":"할머니묵시록",
