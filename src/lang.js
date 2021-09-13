@@ -1,4 +1,4 @@
-ModLanguage('JA',{	
+ModLanguage('EN',{	
 "REPLACE ALL": {
 		"grandmapocalypse":"할머니묵시록",
 		"wrinklers":"주름벌레",
