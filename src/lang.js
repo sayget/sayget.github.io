@@ -99,7 +99,7 @@ ModLanguage('JA',{
 	"Alt font": "단순한 글꼴",
 	"your cookies are displayed using a monospace font": "쿠키 폰트가 모노스페이스 폰트로 표시됩니다.",
 	"Short numbers": "	",
-	"Fast notes": "Fast notes",
+	"Fast notes": "빠른 노트",
 	"notifications disappear much faster": "notifications disappear much faster",
 	"Closing warning": "Closing warning",
 	"the game will ask you to confirm when you close the window": "the game will ask you to confirm when you close the window",
