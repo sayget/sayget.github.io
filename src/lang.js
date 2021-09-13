@@ -296,7 +296,7 @@ ModLanguage('JA',{
 		"+%1 more notification.",
 		"+%1 more notifications."
 	],
-	"Christmas": "Christmas",
+	"Christmas": "크리스마스",
 	"Valentine's day": "Valentine's day",
 	"Business day": "Business day",
 	"Easter": "Easter",
